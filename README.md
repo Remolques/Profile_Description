@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Remolques
-- 👀 I’m interested in ... Game Development
+- 👀 I’m interested into Filmaking and Game Development
 - 🌱 I’m currently learning ... Python and Godot Engine
 - 💞️ I’m looking to collaborate on ... myself right now.
 - 📫 How to reach me ... ofcourse11@hotmail.es
